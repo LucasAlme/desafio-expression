@@ -1,2 +1,2 @@
-# desafio-expression
+# challenge-expression
 Algoritmo para calcular expressões númericas
